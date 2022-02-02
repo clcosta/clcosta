@@ -2,7 +2,7 @@
 
 - 🔭 **Currently work:** Free Lancer;
 
-- 🌱 **Learning:** VBA , SQL, Power BI;
+- 🌱 **Learning:** Docker;
 
 - 🎒 **Main Tools:** Visual Studio Code and GitHub;
 
