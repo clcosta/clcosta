@@ -2,7 +2,7 @@
 
 - 🔭 **Currently work:** Free Lancer;
 
-- 🌱 **Learning:** VueJS;
+- 🌱 **Learning:** ReactJS;
 
 - 🎒 **Main Tools:** Visual Studio Code and GitHub;
 
