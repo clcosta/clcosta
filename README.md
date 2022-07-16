@@ -1,4 +1,4 @@
-# Eu sou Claudio, seja bem vindo!
+# Hi, I'm Claudio, welcome!
 
 - 🔭 **Currently work:** Developer;
 
