@@ -1,10 +1,10 @@
 # Hi, I'm Claudio, welcome!
 
-- 🔭 **Currently work:** Developer;
+- 🔭 **Currently work:** Software Developer;
 
-- 🌱 **Learning:** JavaScript and ReactJS;
+- 🌱 **Learning:** TypeScript;
 
-- 🎒 **Main Tools:** Visual Studio Code, Docker and GitHub;
+- 🎒 **Main Tools:** Visual Studio Code, Docker and Git;
 
 - 🤔 **Social Networks:** [Linkedin](https://www.linkedin.com/in/clcostaf) and [Instagram](https://instagram.com/claudiogfez) ;
 
@@ -18,9 +18,12 @@
 </div></a>   
 <br>
 
-## Principais tecnologias
+## Main technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
+  <img align="center" alt="FastAPI" height="45" width="90" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> 
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
