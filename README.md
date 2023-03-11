@@ -8,8 +8,7 @@
 
 - 🤔 **Social Networks:** [Linkedin](https://www.linkedin.com/in/clcostaf) and [Instagram](https://instagram.com/claudiogfez) ;
 
-- ⚡ **Fun fact:** I'am blue belt on Brazilian Jiu-Jitsu   
-<img align="right" height="130" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BJJ_Blue_Belt.svg/1280px-BJJ_Blue_Belt.svg.png" alt="Bluebelt"><br>
+- ⚡ **Fun fact:** I'am purple belt on Brazilian Jiu-Jitsu <img align="right" height="120" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BJJ_Purple_Belt.svg/719px-BJJ_Purple_Belt.svg.png" alt="Bluebelt"><br>
  ---
  <br>
  <div>
