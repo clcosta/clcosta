@@ -4,7 +4,7 @@
     <b>Welcome to my github!</b><br><br>
     <i>
         I'm Claudio.<br>
-        I am a software engineer and eletrhonic technician.<br>
+        I am a software engineer and electronic technician.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/clcosta">
