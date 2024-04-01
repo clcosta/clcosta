@@ -4,11 +4,14 @@
     <b>Welcome to my github!</b><br><br>
     <i>
         I'm Claudio.<br>
-        I am a software engineer and electronic technician.<br>
+        I am a software developer and electronic technician.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/clcostaf">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="24" alt="LinkedIn">
+    </a>
+    <a href = "mailto:admin@clcostaf.com">
+        <img src="https://img.shields.io/badge/E--mail-black?logo=Minutemailer&logoColor=white" height="24" alt="Email Contact" target="_blank">
     </a>
 </p>
 
@@ -19,6 +22,7 @@
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust)](https://github.com/clcosta)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/clcosta)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/clcosta)
+[![GO](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/clcosta)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/clcosta)
 
 ### Technologies
