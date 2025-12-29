@@ -1,10 +1,10 @@
-<h1 align="center">Hello, world!<img src="https://github.com/clcosta/clcosta/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, world!👋</h1>
 
 <p align="center">
     <b>Welcome to my github!</b><br><br>
     <i>
         I'm Claudio.<br>
-        I am a software developer and electronic technician.<br>
+        I am a Fullstack Software Engineer Specialist & RPA Specialist.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/clcostaff">
